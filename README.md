@@ -59,6 +59,4 @@ Here are some of the projects I’ve built:
 
 ---
 
-### ⚡ **Fun Animations**  
-Just for fun! 🌟  
-![Developer Animation](https://media.giphy.com/media/2Wbvs8VxYqmu1pV0gO/giphy.gif)  
+  
